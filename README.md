@@ -1,7 +1,9 @@
 ````markdown
 # 🛠️ ResolveNow - Online Complaint Registration and Management System
 
-A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application for managing complaints online. Users can register, login, file complaints, and track their resolution status. Admins can manage complaints and update progress.
+A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application for managing complaints
+  online. Users can register, login, file complaints, and track their resolution status. Admins
+   can manage complaints and update progress.
 
 ---
 
